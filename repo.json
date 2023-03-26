@@ -1,0 +1,36 @@
+{
+    "RepositoryName": "Lemin",
+    "RepositoryDescription": "Funny repo for funny tweaks",
+    "RepositoryAuthor": "LeminLimez",
+    "RepositoryIcon": "https://avatars.githubusercontent.com/u/59540996?v=4",
+    "RepositoryWebsite": "https://github.com/leminlimez/leminrepo",
+    "DefaultHeaderImage": "https://media.discordapp.net/attachments/1037347178198351942/1089582367250858117/IMG_4719.jpg",
+    "RepositoryContents": [
+	
+	{
+          "Name": "Comic Sans MS",
+          "Description": "The best font",
+          "Author": {
+              "Label": "LeminLimez",
+              "Links": [
+                  {
+                      "Label": "LeminLimez",
+                      "Link": "https://github.com/leminlimez"
+                  }
+              ]
+          },
+          "Icon": "https://media.discordapp.net/attachments/654089463697506306/1089583127803998440/thumbnail.jpg",
+          "Category": "Fonts",
+          "Caption": "Ever wanted to see the best font in the world on your phone? This time it is ported correctly, with headers working properly.",
+          "Screenshot": "https://media.discordapp.net/attachments/1088417197455589446/1089581497129893918/IMG_0016.PNG",
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://cdn.discordapp.com/attachments/1088417197455589446/1089584478713811014/Comic_Sans_MS_Font.misaka",
+                  "Description": "initial release"
+              }
+          ],
+          "PackageID": "com.leemin.comicsans"
+      }
+	     ]
+}
