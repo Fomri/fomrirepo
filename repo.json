@@ -31,6 +31,32 @@
               }
           ],
           "PackageID": "com.leemin.comicsans"
+      },
+    
+    {
+          "Name": "Huawei P30 Pro",
+          "Description": "Change your model name",
+          "Author": {
+              "Label": "LeminLimez",
+              "Links": [
+                  {
+                      "Label": "LeminLimez",
+                      "Link": "https://github.com/leminlimez"
+                  }
+              ]
+          },
+          "Icon": "https://media.discordapp.net/attachments/654089463697506306/1089613555428491264/android-icon-logo-DB06FA8B39-seeklogo.png?width=600&height=600",
+          "Category": null,
+          "Caption": "Changes your device's model name to a Huawei P30 Pro in settings.",
+          "Screenshot": ["https://media.discordapp.net/attachments/654089463697506306/1089613198975582318/IMG_0017.jpg"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://cdn.discordapp.com/attachments/654089463697506306/1089613199202078790/Huawei_P30_Pro.misaka",
+                  "Description": "initial release"
+              }
+          ],
+          "PackageID": "com.leemin.huaweip30pro"
       }
 	     ]
 }
