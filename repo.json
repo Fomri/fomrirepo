@@ -57,6 +57,32 @@
               }
           ],
           "PackageID": "com.leemin.huaweip30pro"
+      },
+    
+    {
+          "Name": "Samsung Discord Ping",
+          "Description": "Change the Discord ping sound to Samsung",
+          "Author": {
+              "Label": "LeminLimez",
+              "Links": [
+                  {
+                      "Label": "LeminLimez",
+                      "Link": "https://github.com/leminlimez"
+                  }
+              ]
+          },
+          "Icon": "https://cdn.discordapp.com/attachments/654089463697506306/1089918793796550697/discord-metro-style-icon-0.png",
+          "Category": null,
+          "Caption": "Changes your discord ping sound to the Samsung notification sound.",
+          "Screenshot": null,
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://cdn.discordapp.com/attachments/1088417197455589446/1089916333719826442/Samsung_Discord_Ping.misaka",
+                  "Description": "initial release"
+              }
+          ],
+          "PackageID": "com.leemin.samsungdiscordping"
       }
 	     ]
 }
