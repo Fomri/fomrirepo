@@ -1,88 +1,37 @@
 {
-    "RepositoryName": "Lemin",
-    "RepositoryDescription": "Funny repo for funny tweaks",
-    "RepositoryAuthor": "LeminLimez",
-    "RepositoryIcon": "https://avatars.githubusercontent.com/u/59540996?v=4",
-    "RepositoryWebsite": "https://github.com/leminlimez/leminrepo",
-    "DefaultHeaderImage": "https://media.discordapp.net/attachments/1037347178198351942/1089582367250858117/IMG_4719.jpg",
+    "RepositoryName": "Fomri's Repo",
+    "RepositoryDescription": "Amazing MDC repo",
+    "RepositoryAuthor": "Fomri",
+    "RepositoryIcon": "https://github.com/Fomri/fomrirepo/raw/main/Fomri.png",
+    "RepositoryWebsite": "https://github.com/fomr/fomrirepo",
+    "DefaultHeaderImage": "https://github.com/Fomri/fomrirepo/raw/main/FomriBG.png",
     "RepositoryContents": [
 	
 	{
-          "Name": "Comic Sans MS",
-          "Description": "The best font",
+          "Name": "CCiPod",
+          "Description": "iPod on Control Center!",
           "Author": {
-              "Label": "LeminLimez",
+              "Label": "Fomri",
               "Links": [
                   {
-                      "Label": "LeminLimez",
-                      "Link": "https://github.com/leminlimez"
+                      "Label": "Fomri",
+                      "Link": "https://github.com/fomri"
                   }
               ]
           },
-          "Icon": "https://media.discordapp.net/attachments/654089463697506306/1089583127803998440/thumbnail.jpg",
-          "Category": "Fonts",
-          "Caption": "Ever wanted to see the best font in the world on your phone? This time it is ported correctly, with headers working properly.",
-          "Screenshot": ["https://media.discordapp.net/attachments/1088417197455589446/1089581497129893918/IMG_0016.PNG"],
+          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/output-onlinepngtools-4.png",
+          "Category": "CC Layouts",
+          "Caption": "Missing the old iconic iPod Classic? Get little one now on your Control Center!.",
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/IMG_2086.png"],
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://cdn.discordapp.com/attachments/1088417197455589446/1089584478713811014/Comic_Sans_MS_Font.misaka",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/CCiPod.misaka",
                   "Description": "initial release"
               }
           ],
-          "PackageID": "com.leemin.comicsans"
-      },
-    
-    {
-          "Name": "Huawei P30 Pro",
-          "Description": "Change your model name",
-          "Author": {
-              "Label": "LeminLimez",
-              "Links": [
-                  {
-                      "Label": "LeminLimez",
-                      "Link": "https://github.com/leminlimez"
-                  }
-              ]
-          },
-          "Icon": "https://media.discordapp.net/attachments/654089463697506306/1089613555428491264/android-icon-logo-DB06FA8B39-seeklogo.png?width=600&height=600",
-          "Category": null,
-          "Caption": "Changes your device's model name to a Huawei P30 Pro in settings.",
-          "Screenshot": ["https://media.discordapp.net/attachments/654089463697506306/1089613198975582318/IMG_0017.jpg"],
-          "Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://cdn.discordapp.com/attachments/654089463697506306/1089613199202078790/Huawei_P30_Pro.misaka",
-                  "Description": "initial release"
-              }
-          ],
-          "PackageID": "com.leemin.huaweip30pro"
-      },
-    
-    {
-          "Name": "Samsung Discord Ping",
-          "Description": "Change the Discord ping sound to Samsung",
-          "Author": {
-              "Label": "LeminLimez",
-              "Links": [
-                  {
-                      "Label": "LeminLimez",
-                      "Link": "https://github.com/leminlimez"
-                  }
-              ]
-          },
-          "Icon": "https://cdn.discordapp.com/attachments/654089463697506306/1089918793796550697/discord-metro-style-icon-0.png",
-          "Category": null,
-          "Caption": "Changes your discord ping sound to the Samsung notification sound.",
-          "Screenshot": null,
-          "Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://cdn.discordapp.com/attachments/1088417197455589446/1089916333719826442/Samsung_Discord_Ping.misaka",
-                  "Description": "initial release"
-              }
-          ],
-          "PackageID": "com.leemin.samsungdiscordping"
+          "PackageID": "com.fomri.CCiPod"
       }
+
 	     ]
 }
