@@ -60,34 +60,6 @@
               }
           ],
           "PackageID": "com.fomri.Whitelist"
-       },
-
-	{
-          "Name": "Fomri's CC",
-          "Description": "Fomri's CC layout",
-          "MinIOSVersion":"15.0",
-          "MaxIOSVersion":"16.1.2",
-          "Author": {
-              "Label": "Fomri",
-              "Links": [
-                  {
-                      "Label": "Fomri",
-                      "Link": "https://github.com/fomri"
-                  }
-              ]
-          },
-          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/C21114C4-9EF3-4202-9D9E-C1EAA74BF2B9.png",
-          "Category": "Tweaks",
-          "Caption": "Fomri's Control Center color layout!",
-          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/CCpreview.png"],
-          "Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/FomriCC.misaka",
-                  "Description": "initial release"
-              }
-          ],
-          "PackageID": "com.fomri.CClayout"
       },
 	{
           "Name": "NFC16",
