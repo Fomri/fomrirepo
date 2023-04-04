@@ -5,11 +5,12 @@
     "RepositoryIcon": "https://github.com/Fomri/fomrirepo/raw/main/Fomri.png",
     "RepositoryWebsite": "https://github.com/fomr/fomrirepo",
     "DefaultHeaderImage": "https://github.com/Fomri/fomrirepo/raw/main/FomriBG.png",
-    "RepositoryContents": [
-	
+    "RepositoryContents": [	
 	{
           "Name": "CCiPod",
           "Description": "iPod on Control Center!",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
           "Author": {
               "Label": "Fomri",
               "Links": [
@@ -20,8 +21,8 @@
               ]
           },
           "Icon": "https://github.com/Fomri/fomrirepo/raw/main/output-onlinepngtools-4.png",
-          "Category": "CC Layouts",
-          "Caption": "Missing the old iconic iPod Classic? Get little one now on your Control Center!.",
+          "Category": "CC Stuff",
+          "Caption": "Missing the old iconic iPod Nano? Get little one now on your Control Center!.",
           "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/IMG_2086.png"],
           "Releases": [
               {
@@ -31,6 +32,60 @@
               }
           ],
           "PackageID": "com.fomri.CCiPod"
+      },
+	{
+          "Name": "Whitelist",
+          "Description": "No more unable to verify app!",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "Fomri",
+              "Links": [
+                  {
+                      "Label": "Fomri",
+                      "Link": "https://github.com/fomri"
+                  }
+              ]
+          },
+          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/whitelist.png",
+          "Category": "Tweaks",
+          "Caption": "bored from blacklist (Unable to verify app)? This tweak disable it.",
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/whitelists.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/Whitelist.misaka",
+                  "Description": "initial release"
+              }
+          ],
+          "PackageID": "com.fomri.Whitelist"
+      },
+	{
+          "Name": "NFC16",
+          "Description": "NFC Reader module on any device!",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "Fomri",
+              "Links": [
+                  {
+                      "Label": "Fomri",
+                      "Link": "https://github.com/fomri"
+                  }
+              ]
+          },
+          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/NFC.png",
+          "Category": "CC Layouts",
+          "Caption": "Want the NFC Reader module? This tweak enables it on any device! Support iOS 15 too.",
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/NFCs.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/NFC16.misaka",
+                  "Description": "initial release"
+              }
+          ],
+          "PackageID": "com.fomri.NFC16"
       }
 
 	     ]
