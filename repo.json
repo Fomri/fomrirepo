@@ -33,7 +33,6 @@
           ],
           "PackageID": "com.fomri.CCiPod"
       },
-
 	{
           "Name": "Whitelist",
           "Description": "No more unable to verify app!",
