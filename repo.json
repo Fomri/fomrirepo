@@ -82,7 +82,7 @@
           "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/Fomri's CC.misaka",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/FomriCC.misaka",
                   "Description": "initial release"
               }
           ],
