@@ -60,6 +60,7 @@
               }
           ],
           "PackageID": "com.fomri.Whitelist"
+       },
 
 	{
           "Name": "Fomri's CC",
