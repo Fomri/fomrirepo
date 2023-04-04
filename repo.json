@@ -33,6 +33,33 @@
           ],
           "PackageID": "com.fomri.CCiPod"
       },
+	    	{
+          "Name": "Fomri's CC",
+          "Description": "Fomri's CC layout.",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "Fomri",
+              "Links": [
+                  {
+                      "Label": "Fomri",
+                      "Link": "https://github.com/fomri"
+                  }
+              ]
+          },
+          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/CCicon.png",
+          "Category": "CC Stuff",
+          "Caption": "Missing the old iconic iPod Nano? Get little one now on your Control Center!.",
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/CCpreview.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/FomriCC.misaka",
+                  "Description": "initial release"
+              }
+          ],
+          "PackageID": "com.fomri.CC"
+      },
 	{
           "Name": "Whitelist",
           "Description": "No more unable to verify app!",
