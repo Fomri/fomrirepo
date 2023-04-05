@@ -29,7 +29,12 @@
                   "Version": "1.0",
                   "Package": "https://github.com/Fomri/fomrirepo/raw/main/CCiPod.misaka",
                   "Description": "initial release"
-              }
+              },
+	      {
+                  "Version": "1.1",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/com.fomri.CCiPod.misaka",
+                  "Description": "iPad support added! Big thanks to @nxby"
+	      }  
           ],
           "PackageID": "com.fomri.CCiPod"
       },
