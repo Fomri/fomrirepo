@@ -92,6 +92,33 @@
           ],
           "PackageID": "com.fomri.Whitelist"
       },
+		 {
+          "Name": "CameraTXT",
+          "Description": "Customize your Camera App!",
+          "MinIOSVersion":"16.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "Fomri",
+              "Links": [
+                  {
+                      "Label": "Fomri",
+                      "Link": "https://twitter.com/Fomri_"
+                  }
+              ]
+          },
+          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/IMG_5507.png",
+          "Category": "App customizer",
+          "Caption": "Customize anything in the Camera app! SUPPORT iPhone ONLY! Dont use it on iPad or iPod touch, iPad version coming soon.",
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/IMG_5504.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/CameraTXT.misaka",
+                  "Description": "initial release"
+              } 
+          ],
+          "PackageID": "com.fomri.CameraTXT"
+       },   
 	{
           "Name": "NFC16",
           "Description": "NFC Reader module on any device!",
