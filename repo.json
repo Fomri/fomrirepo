@@ -16,7 +16,7 @@
               "Links": [
                   {
                       "Label": "Fomri",
-                      "Link": "https://github.com/fomri"
+                      "Link": "https://twitter.com/Fomri_"
                   }
               ]
           },
@@ -48,7 +48,7 @@
               "Links": [
                   {
                       "Label": "Fomri",
-                      "Link": "https://github.com/fomri"
+                      "Link": "https://twitter.com/Fomri_"
                   }
               ]
           },
@@ -75,7 +75,7 @@
               "Links": [
                   {
                       "Label": "Fomri",
-                      "Link": "https://github.com/fomri"
+                      "Link": "https://twitter.com/Fomri_"
                   }
               ]
           },
@@ -91,6 +91,33 @@
               }
           ],
           "PackageID": "com.fomri.Whitelist"
+      },
+	    	{
+          "Name": "LegalPacMan",
+          "Description": "Play Pac-Man on your Settings app!",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "Fomri",
+              "Links": [
+                  {
+                      "Label": "Fomri",
+                      "Link": "https://github.com/fomri"
+                  }
+              ]
+          },
+          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/PAC.png",
+          "Category": "Tweaks",
+          "Caption": "Get Pac-Man on your Settings app! Path on settings: /General/Legal/Legal, credit to SeanMC about the idea.",
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/PACM.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/LegalPacMan.misaka",
+                  "Description": "initial release"
+              }
+          ],
+          "PackageID": "com.fomri.LegalPacMan"
       },
 		 {
           "Name": "CameraTXT",
@@ -129,7 +156,7 @@
               "Links": [
                   {
                       "Label": "Fomri",
-                      "Link": "https://github.com/fomri"
+                      "Link": "https://twitter.com/Fomri_"
                   }
               ]
           },
