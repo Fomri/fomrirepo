@@ -143,7 +143,13 @@
                   "Version": "1.0",
                   "Package": "https://github.com/Fomri/fomrirepo/raw/main/CameraTXT15.misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "2.0",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/CameraTXT15.misaka",
+                  "Description": "incomplete file fixed!"
               } 
+
           ],
           "PackageID": "com.fomri.CameraTXT15"
        },
