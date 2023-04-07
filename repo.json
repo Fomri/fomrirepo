@@ -65,6 +65,60 @@
           ],
           "PackageID": "com.fomri.CC"
       },
+	  {
+          "Name": "LegalSportCenter",
+          "Description": "Sport game center on your Settings!.",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "Fomri",
+              "Links": [
+                  {
+                      "Label": "Fomri",
+                      "Link": "https://github.com/fomri"
+                  }
+              ]
+          },
+          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/SC.png",
+          "Category": "Settings Customize",
+          "Caption": "Sport Center on settings: path: General/Legal/(Legal again for Tap Tap Dunk) (License for Soccer Penalty",
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/SC1.png", "https://github.com/Fomri/fomrirepo/raw/main/SC2.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/SC.misaka",
+                  "Description": "initial release"
+              }
+          ],
+          "PackageID": "com.fomri.SC"
+      },
+	 {
+          "Name": "LegalPingPong",
+          "Description": "Play Ping Pong on your Settings!.",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "Fomri",
+              "Links": [
+                  {
+                      "Label": "Fomri",
+                      "Link": "https://github.com/fomri"
+                  }
+              ]
+          },
+          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/PP.png",
+          "Category": "Settings Customize",
+          "Caption": "Play Ping Pong on your Settings! Path in Settings: /General/Legal/Legal.",
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/PPM.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/LPP.misaka",
+                  "Description": "initial release"
+              }
+          ],
+          "PackageID": "com.fomri.PingPong"
+      },
 	{
           "Name": "Whitelist",
           "Description": "No more unable to verify app!",
@@ -107,8 +161,8 @@
               ]
           },
           "Icon": "https://github.com/Fomri/fomrirepo/raw/main/PAC.png",
-          "Category": "Tweaks",
-          "Caption": "Get Pac-Man on your Settings app! Path on settings: /General/Legal/Legal, credit to SeanMC about the idea.",
+          "Category": "Settings Customize",
+          "Caption": "Play Pac-Man on your Settings! Path on settings: General/Legal/Legal)",
           "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/PACM.png"],
           "Releases": [
               {
@@ -117,7 +171,7 @@
                   "Description": "initial release"
               }
           ],
-          "PackageID": "com.fomri.LegalPacMan"
+          "PackageID": "com.fomri.PacMan"
       },
 
 		 {
@@ -144,12 +198,11 @@
                   "Package": "https://github.com/Fomri/fomrirepo/raw/main/CameraTXT15.misaka",
                   "Description": "initial release"
               },
-              {
+	      {
                   "Version": "2.0",
                   "Package": "https://github.com/Fomri/fomrirepo/raw/main/CameraTXT15.misaka",
                   "Description": "incomplete file fixed!"
               } 
-
           ],
           "PackageID": "com.fomri.CameraTXT15"
        },
