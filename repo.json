@@ -4,7 +4,10 @@
     "RepositoryAuthor": "Fomri",
     "RepositoryIcon": "https://github.com/Fomri/fomrirepo/raw/main/Fomri.png",
     "RepositoryWebsite": "https://github.com/fomr/fomrirepo",
-    "DefaultHeaderImage": "https://github.com/Fomri/fomrirepo/raw/main/FomriBG.png",
+    "Default":{
+    "HeaderImage": "https://github.com/Fomri/fomrirepo/raw/main/FomriBG.png",
+    "ViewCount": true
+    },
     "RepositoryContents": [	
 	{
           "Name": "CCiPod",
