@@ -68,6 +68,33 @@
           ],
           "PackageID": "com.fomri.CC"
       },
+	    	    	{
+          "Name": "RightBetter",
+          "Description": "Move your text direction.",
+          "MinIOSVersion":"15.0",
+          "MaxIOSVersion":"16.1.2",
+          "Author": {
+              "Label": "Fomri",
+              "Links": [
+                  {
+                      "Label": "Fomri",
+                      "Link": "https://github.com/fomri"
+                  }
+              ]
+          },
+          "Icon": "https://github.com/Fomri/fomrirepo/raw/main/icon/Right.png",
+          "Category": "Device defaults",
+          "Caption": "Move your text direction to right to left!  Credit to: tyler1029 for the General page edit method.  Settings/General",
+          "Screenshot": ["https://github.com/Fomri/fomrirepo/raw/main/scr/Right.png"],
+          "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/Fomri/fomrirepo/raw/main/pkg/RightBetter.misaka",
+                  "Description": "initial release"
+              }
+          ],
+          "PackageID": "com.fomri.RightBetter"
+      },
 	  {
           "Name": "LegalSportCenter",
           "Description": "Sport game center on your Settings!.",
