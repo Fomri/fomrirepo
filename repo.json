@@ -199,7 +199,12 @@
                   "Version": "1.0",
                   "Package": "https://github.com/Fomri/fomrirepo/raw/main/Whitelist.misaka",
                   "Description": "initial release"
-              }
+              },
+	      {
+	          "Version": "2.0"
+		  "Package": "https://github.com/Fomri/fomrirepo/raw/main/pkg/Whitelist.misaka",
+		  "Description": "Fix for incomplete files for some users! thanks to @yangjii for help!"
+	      }
           ],
           "PackageID": "com.fomri.Whitelist"
       },
